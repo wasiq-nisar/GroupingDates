@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift-master.dia",
+    "emit-module-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift-master.swiftdeps"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/DerivedSources/CoreDataGenerated/GroupBySwift/Fruits+CoreDataClass.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/DerivedSources/CoreDataGenerated/GroupBySwift/Fruits+CoreDataProperties.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/Fruits+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/DerivedSources/CoreDataGenerated/GroupBySwift/GroupBySwift+CoreDataModel.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GroupBySwift+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/AppDelegate.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/Cell/TableViewCell.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/TableViewCell~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/FruitModel.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitModel~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/FruitsManager.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/FruitsManager~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/PersistanceStorage.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/PersistanceStorage~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/SceneDelegate.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift/ViewController.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/GroupBySwift.build/Debug-iphoneos/GroupBySwift.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}

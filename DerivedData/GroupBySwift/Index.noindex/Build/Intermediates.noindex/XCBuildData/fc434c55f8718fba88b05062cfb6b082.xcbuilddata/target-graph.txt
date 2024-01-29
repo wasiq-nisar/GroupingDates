@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'GroupBySwift' in project 'GroupBySwift' (no dependencies)
+Target 'GroupBySwift' in project 'GroupBySwift' (no dependencies)

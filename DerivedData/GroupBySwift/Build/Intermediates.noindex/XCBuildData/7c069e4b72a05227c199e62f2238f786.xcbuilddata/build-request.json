@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "75f365b0298a325b942ae6c8f7d522268e3f8246c501c98474f5b7b561e3fd77"
+    }
+  ],
+  "containerPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/GroupBySwift.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Products",
+      "derivedDataPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/muhammadwasiq/Desktop/Wasiq/GroupBySwift/DerivedData/GroupBySwift/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone13,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.6.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone13,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008101-00012CDC0E51003A",
+          "TARGET_DEVICE_MODEL" : "iPhone13,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.6.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
